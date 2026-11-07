@@ -1,0 +1,6 @@
+name: Log-plugin
+version: 0.0.1
+main: me.rizuv.plugin.Main
+description: Logowanie graczy z pominieciem kont premmium
+author: PaperMC
+api-version: '26.3'
