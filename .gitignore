@@ -1,0 +1,4 @@
+.vscode
+.xml
+log-plugin/target/*
+log-plugin/src/test/*
